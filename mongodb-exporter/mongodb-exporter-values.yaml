@@ -1,5 +1,5 @@
 mongodb:
-  uri: "mongodb://admin:password123@mongodb.grade-submission.svc.cluster.local:27017"
+  uri: "mongodb://admin:password123@mongodb.mongodb.svc.cluster.local:27017"
 
 serviceMonitor:
   enabled: true
